@@ -1,1 +1,1 @@
-# posts-app_React
+# posts-app on React
